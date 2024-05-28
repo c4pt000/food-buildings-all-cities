@@ -33,3 +33,5 @@ or
 or
 600 sqft can grow 300lbs of fruit or vegtables = 79,800 lbs of fruits or vegtables growing entire building
 ```
+
+# for 10,000,000,000 USD you could build 660 buildings nationwide to grow food at $15,000,000 per building at $30,000,000 per building you could build 330 buildings nationwide
